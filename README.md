@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:devikas1330@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Devika-1330">
@@ -24,10 +24,10 @@
 
 ## 🌟 About Me
 
-* 🎓 **Education:** Integrated MCA Student based in Trivandrum, Kerala, India.
+* 🎓 **Education:** Integrated MCA Student.
 * 📊 **Career Goal:** Aspiring Data Analyst passionate about transforming raw data into meaningful insights.
-* 🔍 **Interests:** Data Analytics, Business Intelligence, Data Visualization, and Machine Learning.
-* 💻 **Programming:** Python, SQL, JavaScript, TypeScript, and PHP.
+* 🔍 **Interests:** Data Analytics, Business Intelligence, Data Visualization, and Python.
+* 💻 **Programming:** Python, SQL, JavaScript, HTML.
 * 📈 **Analytics Tools:** Power BI, Microsoft Excel, Pandas, NumPy, and Matplotlib.
 * 🚀 **Goal:** Build practical projects that solve real-world problems using data and technology.
 * 🤝 **Open To:** Learning opportunities, collaborations, and relevant internship opportunities.
@@ -130,11 +130,11 @@ I'm always interested in learning, collaborating on projects, and exploring oppo
 
 <br/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/devikas30/" target="_blank">
   <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:devikas1330@gmail.com">
   <img src="https://img.shields.io/badge/Send_an_Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email"/>
 </a>
 
