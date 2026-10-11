@@ -5,7 +5,7 @@
 ### 🎓 MCA Student | 📊 Aspiring Data Analyst | 💻 Tech Enthusiast
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/devikas30/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:devikas1330@gmail.com">
